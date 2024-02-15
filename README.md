@@ -5,6 +5,7 @@ Documentation for Terraform Cloud and other Terraform-related documentation:
 - https://developer.hashicorp.com/terraform/cloud-docs
 - https://developer.hashicorp.com/terraform/plugin
 - https://developer.hashicorp.com/terraform/registry
+- Test Copilot
 
 <!-- BEGIN: contributions -->
 <!-- Generated text, do not edit directly -->
